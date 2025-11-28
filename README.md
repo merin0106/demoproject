@@ -1,2 +1,0 @@
-# demoproject
-sample repository
